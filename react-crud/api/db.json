@@ -1,0 +1,90 @@
+{
+  "products": [
+    {
+      "id": "38b6",
+      "productName": "Iphone",
+      "unitPrice": "1000",
+      "unitsInStock": "10",
+      "categoryId": "7f1f"
+    },
+    {
+      "id": "2121",
+      "categoryId": "a0ed",
+      "productName": "E250",
+      "unitPrice": "500",
+      "unitsInStock": "666"
+    },
+    {
+      "id": "50de",
+      "categoryId": "aaf1",
+      "productName": "Note10",
+      "unitPrice": "50",
+      "unitsInStock": "400"
+    },
+    {
+      "id": "db57",
+      "productName": "P30 PRO",
+      "unitPrice": "147",
+      "unitsInStock": "123",
+      "categoryId": "8253"
+    },
+    {
+      "id": "f2d9",
+      "productName": "Watch",
+      "unitPrice": "250",
+      "unitsInStock": "346",
+      "categoryId": "7f1f"
+    }
+  ],
+  "companies": [
+    {
+      "categoryName": "Apple",
+      "legalnumber": "11155",
+      "country": "ABD",
+      "website": "apple.com",
+      "id": "7f1f"
+    },
+    {
+      "id": "a0ed",
+      "categoryName": "Samsung",
+      "legalnumber": "222",
+      "country": "Güney Kore",
+      "website": "samsung.com"
+    },
+    {
+      "id": "aaf1",
+      "categoryName": "Xiaomi",
+      "legalnumber": "333",
+      "country": "Çin",
+      "website": "xiaomi.com"
+    },
+    {
+      "categoryName": "Huawei",
+      "legalnumber": "444",
+      "country": "Çin",
+      "website": "huawei.com",
+      "id": "8253"
+    },
+    {
+      "categoryName": "Tesla",
+      "legalnumber": "1245",
+      "country": "ABD",
+      "website": "tesla.com",
+      "id": "168b"
+    }
+  ],
+  "users": [
+    {
+      "id": "fe55",
+      "username": "1",
+      "email": "1@gmail.com",
+      "password": "1"
+    },
+    {
+      "id": "4f37",
+      "username": "yeni",
+      "email": "yeni@gmail.com",
+      "password": "1"
+    }
+  ]
+}
